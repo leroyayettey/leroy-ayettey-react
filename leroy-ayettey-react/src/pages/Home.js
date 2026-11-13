@@ -39,14 +39,14 @@ const Home = () => {
 
   const experience = [
     {
-      year: '2023 - Present',
-      title: 'Continuous Learning & Growth',
+      year: 'JUNE 2025 - Present',
+      title: 'Cloud & ApplicationFocused Project Based Learning ',
       description: 'Actively deepening cloud architecture knowledge, improving infrastructure automation practices, and building full-stack applications with modern frameworks.'
     },
     {
-      year: '2021 - 2026',
-      title: 'CS Degree Completion',
-      description: 'Earned Bachelor of Science in Computer Science with a minor in Cybersecurity from University of Hartford, consistently making Dean\'s List.'
+      year: 'AUG 2021 - JAN 2027',
+      title: 'Computer Science Degree',
+      description: 'Bachelor of Science in Computer Science with a minor in Cybersecurity from University of Hartford.'
     }
   ];
 
