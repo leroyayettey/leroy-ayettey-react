@@ -80,11 +80,11 @@ const Home = () => {
           <div className="metric-grid">
             <div className="metric-card">
               <span className="metric-label">Focus Areas</span>
-              <strong>AWS & IaC</strong>
+              <strong>AWS, IaC & Full-Stack Dev</strong>
             </div>
             <div className="metric-card">
-              <span className="metric-label">Languages</span>
-              <strong>Java, JS</strong>
+              <span className="metric-label"> Main Languages</span>
+              <strong>Java, Python, JavaScript</strong>
             </div>
           </div>
           <div className="summary-box">

@@ -27,7 +27,7 @@ const Contact = () => {
 
         <div className="contact-list">
           <a href="mailto:leroy.ayettey@outlook.com">leroy.ayettey@outlook.com</a>
-          <a href="tel:8607093150">(860) 709-3150</a>
+          <a href="tel:8607093150">(860) 818-6372</a>
           <a href="https://github.com/leroyayettey" target="_blank" rel="noreferrer">github.com/leroyayettey</a>
           <span>Bloomfield, CT</span>
         </div>
